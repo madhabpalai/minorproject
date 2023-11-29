@@ -60,6 +60,11 @@
         <p>22MCC20134</p>
     </section>
 
+    <section>
+        <h2>Preeti Parida</h2>
+        <p>22MCC20134</p>
+    </section>
+
     <footer>
         <p>&copy; 2023 Your Website Name. All rights reserved.</p>
     </footer>
