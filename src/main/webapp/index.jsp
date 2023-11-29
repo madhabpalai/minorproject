@@ -41,13 +41,13 @@
 <body>
 
     <header>
-        <h1>Your Website Name</h1>
-        <p>Welcome to our modern and elegant website</p>
+        <h1>Automated Website Deployment System</h1>
+        <p>AWS | Git | Jenkins | Maven | Tomcat | Linux</p>
     </header>
 
     <section>
-        <h2>About Us</h2>
-        <p>This is a brief description of your website and what you have to offer. Feel free to customize this section with your own content.</p>
+        <h2>About Project</h2>
+        <p><b>"Automated Website Deployment using Maven and CI/CD with Jenkins on Tomcat Server"</b> involves implementing a streamlined process for building, testing, and deploying a website using Maven as the build tool. Continuous Integration/Continuous Deployment (CI/CD) pipelines ensure automated and efficient updates to a Tomcat server, reducing manual intervention in the deployment lifecycle.</p>
     </section>
 
     <section>
