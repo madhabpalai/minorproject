@@ -50,10 +50,7 @@
         <p><b>"Automated Website Deployment using Maven and CI/CD with Jenkins on Tomcat Server"</b> involves implementing a streamlined process for building, testing, and deploying a website using Maven as the build tool. Continuous Integration/Continuous Deployment (CI/CD) pipelines ensure automated and efficient updates to a Tomcat server, reducing manual intervention in the deployment lifecycle.</p>
     </section>
 
-    <section>
-        <h2>**********</h2>
-        <p>...........</p>
-    </section>
+    
 
     <section>
         <h2>Madhab Palai</h2>
@@ -63,6 +60,11 @@
     <section>
         <h2>Preeti Parida</h2>
         <p>22MCC20134</p>
+    </section>
+
+    <section>
+        <h2>**********</h2>
+        <p>...........</p>
     </section>
 
     <footer>
