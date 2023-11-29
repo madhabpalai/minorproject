@@ -51,13 +51,13 @@
     </section>
 
     <section>
-        <h2>Services</h2>
-        <p>Describe the services you provide in this section. You can add more sections like this to highlight different aspects of your business.</p>
+        <h2>Madhab Palai</h2>
+        <p>22MCC20089</p>
     </section>
 
     <section>
-        <h2>Contact</h2>
-        <p>Provide contact information or a contact form for visitors to reach out to you.</p>
+        <h2>Preeti Parida</h2>
+        <p>22MCC20134</p>
     </section>
 
     <footer>
