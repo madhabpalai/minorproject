@@ -51,13 +51,13 @@
     </section>
 
     <section>
-        <h2>Madhab Palai</h2>
-        <p>22MCC20089</p>
+        <h2>..........</h2>
+        <p>...........</p>
     </section>
 
     <section>
-        <h2>Preeti Parida</h2>
-        <p>22MCC20134</p>
+        <h2>Madhab Palai</h2>
+        <p>22MCC20089</p>
     </section>
 
     <section>
